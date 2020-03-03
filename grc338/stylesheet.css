@@ -1,0 +1,181 @@
+/*CSS DOCUMENTS*/
+
+.image3 {
+	width: 50%;
+	margin-left: 4em;
+	padding-top: 1em;
+}
+
+body {
+	background-color: rgb(254, 254, 254);
+}
+
+h1 {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+	font-size: 2.5em;
+}
+
+h2 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	text-align: center;
+	font-size: 1.3em;
+	margin-left: .7em;
+	padding-top: .01em;
+	padding-bottom: 0em;
+}
+
+h3 {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	float: none;
+	font-size: 1em;
+	padding-bottom: 0em;
+	padding-top: 0em;
+	text-align: center;
+	margin-left: 1em;
+}
+
+h4 {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+p {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: .9em;
+	text-align: left;
+	line-height: 1.5em;
+	padding-top: 0em;
+	margin-left: 2em;
+	margin-left: 1em;
+}
+
+
+}
+div.menu {
+	float: left;
+	width: 36%;
+	padding-top: 0em;
+	text-align-last: left;
+	margin-left: 1em;
+	margin-right: 4em;
+}
+.mainmenu {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: .7em;
+	font-style: oblique;
+	margin-right: 15em;
+}
+div.mission {
+	margin-left: 5em;
+	margin-right: 5em;
+	text-align: left;
+}
+div.bakedgoods {
+	margin-left: 5em;
+	margin-right: 5em;
+	text-align: left;
+	width: 40%;
+	float: left;
+	line-height: 3em;
+	margin-bottom: 3em;
+	font-family: sans-serif;
+}
+
+}
+h1 {
+	font-family : "Century Gothic",
+	CenturyGothic,
+	AppleGothic,
+	sans-serif;
+}
+.image1 {
+	width: 100%;
+	padding-bottom: 2em;
+	margin-right: 5em;
+	margin-left: 0em
+}
+.image2 {
+	width: 100%;
+	margin-left: 1em;
+	margin-right: 0em;
+	padding-bottom: 2em;
+	padding-top: 0em;
+}
+p {
+	font-family:serif;
+	font-style: normal;
+	font-size: 1.2em;
+}
+div.mission {
+	margin-left: 5em;
+	margin-right: 5em;
+	font-size: 1.2em;
+	margin-bottom: 3em;
+}
+div.tea {
+	text-align: center;
+	margin-left: 5em;
+	margin-right: 5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	float: left;
+	width: 50%;
+	margin-bottom: 3em;
+}
+img {
+	width: 100%;
+	margin-left: 5em;
+	margin-left: 5em;
+	float:left;
+	padding-bottom: 1em;
+}
+
+}
+h3 {
+	font-family: serif;
+	font-size: 2.5em;
+	padding-right: 1em;
+	margin-bottom: .05em;
+}
+p {
+	font-size: 1em;
+}
+h4 {
+	font-family: "Century Gothic",
+	CenturyGothic,
+	AppleGothic,
+	sans-serif;
+	font-size: 1.5em;
+	margin-bottom: .5em
+}
+
+}
+h1 {
+	margin-left: 5em;
+	margin-right: 5em;
+	margin-bottom: 3em;
+	font-size: 1em;
+}
+h2 {
+	margin-left: 5em;
+	margin-right: 5em;
+}
+p {
+	margin-right: 5em;
+	margin
+}
+div.locations {
+	margin-left: 5em;
+	margin-right: 5em;
+	font-size: .5em;
+}
+
+    
+    
+    
+    
+
+
+
+

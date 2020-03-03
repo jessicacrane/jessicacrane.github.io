@@ -1,8 +1,8 @@
 /*CSS DOCUMENTS*/
 
 .image3 {
-	width: 50%;
-	margin-left: 4em;
+	width: 90%;
+	margin:auto;
 	padding-top: 1em;
 }
 
@@ -27,7 +27,6 @@ h2 {
 
 h3 {
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-	float: none;
 	font-size: 1em;
 	padding-bottom: 0em;
 	padding-top: 0em;
@@ -43,22 +42,26 @@ h4 {
 p {
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-size: .9em;
-	text-align: left;
+	text-align: center;
 	line-height: 1.5em;
 	padding-top: 0em;
-	margin-left: 2em;
-	margin-left: 1em;
+	
 }
 
 
 }
 div.menu {
-	float: left;
-	width: 36%;
+	
+	width: 40%;
 	padding-top: 0em;
-	text-align-last: left;
+	text-align: left;
 	margin-left: 1em;
-	margin-right: 4em;
+	margin-right: 1em;
+    padding-left: 1em;
+}
+
+.menu p {
+    text-align: center;
 }
 .mainmenu {
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
@@ -74,8 +77,8 @@ div.mission {
 div.bakedgoods {
 	margin-left: 5em;
 	margin-right: 5em;
-	text-align: left;
-	width: 40%;
+	text-align: center;
+	width: 50%;
 	float: left;
 	line-height: 3em;
 	margin-bottom: 3em;
@@ -88,6 +91,7 @@ h1 {
 	CenturyGothic,
 	AppleGothic,
 	sans-serif;
+    text-align: center;
 }
 .image1 {
 	width: 100%;
@@ -115,19 +119,18 @@ div.mission {
 }
 div.tea {
 	text-align: center;
-	margin-left: 5em;
-	margin-right: 5em;
+	margin: 4em;
 	padding-top: 0em;
 	padding-bottom: 0em;
-	float: left;
 	width: 50%;
 	margin-bottom: 3em;
 }
+
+.tea p {
+    margin:auto;
+}
 img {
 	width: 100%;
-	margin-left: 5em;
-	margin-left: 5em;
-	float:left;
 	padding-bottom: 1em;
 }
 
@@ -140,6 +143,7 @@ h3 {
 }
 p {
 	font-size: 1em;
+    text-align: center;
 }
 h4 {
 	font-family: "Century Gothic",

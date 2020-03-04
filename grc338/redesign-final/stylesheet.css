@@ -1,9 +1,11 @@
 /*CSS DOCUMENTS*/
 
+
+
 .image3 {
-	width: 90%;
-	margin:auto;
-	padding-top: 1em;
+	width:80%;
+	margin-left:7.5em;
+	padding-top:  1em;
 }
 
 body {
@@ -13,44 +15,19 @@ body {
 h1 {
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	text-align: center;
-	font-size: 2.5em;
-}
-
-h2 {
-	font-family: Georgia, Times, "Times New Roman", serif;
-	text-align: center;
-	font-size: 1.3em;
-	margin-left: .7em;
-	padding-top: .01em;
-	padding-bottom: 0em;
-}
-
-h3 {
-	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	font-size: 1em;
-	padding-bottom: 0em;
-	padding-top: 0em;
-	text-align: center;
-	margin-left: 1em;
+}
+h4{
+    text-align: center;
 }
 
-h4 {
-	font-size: 1.5em;
-	text-align: center;
-}
-
-p {
-	font-family: Georgia, Times, "Times New Roman", serif;
-	font-size: .9em;
-	text-align: center;
-	line-height: 1.5em;
-	padding-top: 0em;
-	
-}
+p{
+  font-size: 1em;
+    text-align: center;
 
 
 }
-div.menu {
+div.mainmenu {
 	
 	width: 40%;
 	padding-top: 0em;
@@ -58,6 +35,9 @@ div.menu {
 	margin-left: 1em;
 	margin-right: 1em;
     padding-left: 1em;
+    font-size: 1em;
+    list-style-type:none;
+    
 }
 
 .menu p {
@@ -75,91 +55,130 @@ div.mission {
 	text-align: left;
 }
 div.bakedgoods {
-	margin-left: 5em;
-	margin-right: 5em;
+    display:inline-block;
+    float:left;
+	margin:20em;
+    margin-top: 1em;
 	text-align: center;
-	width: 50%;
+	width: 70%;
 	float: left;
 	line-height: 3em;
 	margin-bottom: 3em;
-	font-family: sans-serif;
+    font-family: sans-serif;}
+
+    h1 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	text-align:left;
+	font-size: 1.3em;
+	margin-left: .7em;
+	padding-top: .01em;
+	padding-bottom: 0em;
+        text-decoration: none;
 }
 
+h3 {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 1em;
+	padding-bottom: 0em;
+	padding-top: 0em;
+	text-align: left;
+	margin-left: 1em;
 }
+
+img {
+    width: 50%;
+}
+
+h4 {
+	font-size: 1.5em;
+	text-align: ;
+}
+
+.bakedgoods p {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 1em;
+	text-align:left;
+	line-height: 1.5em;
+	padding-top: 0em;
+    margin-left: 4em;
+    margin-right 4em;
+	
+    }
+
 h1 {
 	font-family : "Century Gothic",
 	CenturyGothic,
 	AppleGothic,
 	sans-serif;
     text-align: center;
+    text-decoration: none;
+    
 }
 .image1 {
-	width: 100%;
-	padding-bottom: 2em;
-	margin-right: 5em;
-	margin-left: 0em
+	width:100%;
+	padding-bottom: 0em;
+	margin:auto;
 }
 .image2 {
-	width: 100%;
-	margin-left: 1em;
-	margin-right: 0em;
+	width: 50%;
+        margin:auto;
 	padding-bottom: 2em;
 	padding-top: 0em;
 }
+h4{font-family : "Century Gothic",
+	CenturyGothic,
+	AppleGothic,
+	sans-serif;
+    text-align: center;
+    text-decoration: none;}
 p {
 	font-family:serif;
+    text-align: left;
 	font-style: normal;
-	font-size: 1.2em;
+
 }
 div.mission {
-	margin-left: 5em;
-	margin-right: 5em;
+	margin-left: 4em;
+	margin-right: 4em;
 	font-size: 1.2em;
 	margin-bottom: 3em;
 }
 div.tea {
 	text-align: center;
-	margin: 4em;
 	padding-top: 0em;
 	padding-bottom: 0em;
 	width: 50%;
-	margin-bottom: 3em;
+	margin-left:20em;
+    margin-right:20em;
 }
 
-.tea p {
-    margin:auto;
+.tea p {text-align: left;
+    margin:0em;
 }
+    
 img {
 	width: 100%;
 	padding-bottom: 1em;
+    padding-top: 2em;
 }
-
-}
-h3 {
-	font-family: serif;
-	font-size: 2.5em;
-	padding-right: 1em;
-	margin-bottom: .05em;
 }
 p {
 	font-size: 1em;
     text-align: center;
 }
-h4 {
-	font-family: "Century Gothic",
-	CenturyGothic,
-	AppleGothic,
-	sans-serif;
-	font-size: 1.5em;
-	margin-bottom: .5em
-}
+
+div.hours {
+    margin-left:20em;
+    margin-right:20em;
 
 }
 h1 {
-	margin-left: 5em;
-	margin-right: 5em;
-	margin-bottom: 3em;
-	font-size: 1em;
+	
+	margin-bottom: 1em;
+    margin-top:1em;
+	font-size: 1.5em;
+    text-align: center;
+    
 }
 h2 {
 	margin-left: 5em;
@@ -167,14 +186,14 @@ h2 {
 }
 p {
 	margin-right: 5em;
-	margin
+	text-align: center;
 }
 div.locations {
 	margin-left: 5em;
 	margin-right: 5em;
 	font-size: .5em;
 }
-
+}
     
     
     
